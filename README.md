@@ -1,4 +1,4 @@
-# HOZOVA-8512---Traineeship-in-Statistics-and-Data-Science
+# HOZOVA-8512
 
 # Following repository provides dataset, simple code in R and paper summarizing results of the exercise.
 
